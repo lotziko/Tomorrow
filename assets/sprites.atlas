@@ -1,0 +1,384 @@
+
+sprites.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spriteBackground/
+  rotate: false
+  xy: 1, 574
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: 0
+spriteLayerDoor/
+  rotate: false
+  xy: 483, 637
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: 0
+spriteLayerDoor/
+  rotate: false
+  xy: 28, 299
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: 1
+spriteLayerDoor/
+  rotate: false
+  xy: 540, 637
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: 2
+spriteLayerDoor/
+  rotate: false
+  xy: 28, 222
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: 3
+spriteMissileProjectile/
+  rotate: false
+  xy: 1, 228
+  size: 25, 146
+  orig: 25, 146
+  offset: 0, 0
+  index: 0
+spriteMissileProjectile/
+  rotate: false
+  xy: 1, 80
+  size: 25, 146
+  orig: 25, 146
+  offset: 0, 0
+  index: 1
+spritePlayerMove/
+  rotate: false
+  xy: 635, 718
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: 0
+spritePlayerMove/
+  rotate: false
+  xy: 787, 784
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: 1
+spritePlayerMove/
+  rotate: false
+  xy: 153, 380
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: 2
+spritePlayerMove/
+  rotate: false
+  xy: 228, 446
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: 3
+spritePlayerMove/
+  rotate: false
+  xy: 483, 575
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: 4
+spritePlayerMove/
+  rotate: false
+  xy: 85, 314
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: 5
+spritePlayerMove/
+  rotate: false
+  xy: 597, 652
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: 6
+spritePlayerStay/
+  rotate: false
+  xy: 1, 17
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: 0
+spritePlayerStay/
+  rotate: false
+  xy: 28, 159
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: 1
+spriteRectangle1/
+  rotate: false
+  xy: 625, 704
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+spriteShipStandardCannon/
+  rotate: false
+  xy: 1, 508
+  size: 150, 64
+  orig: 150, 64
+  offset: 0, 0
+  index: 0
+spriteShipStandardCannon/
+  rotate: false
+  xy: 483, 780
+  size: 150, 64
+  orig: 150, 64
+  offset: 0, 0
+  index: 1
+spriteShipStandardCannon/
+  rotate: false
+  xy: 1, 442
+  size: 150, 64
+  orig: 150, 64
+  offset: 0, 0
+  index: 2
+spriteShipStandardCannon/
+  rotate: false
+  xy: 153, 508
+  size: 150, 64
+  orig: 150, 64
+  offset: 0, 0
+  index: 3
+spriteShipStandardCannon/
+  rotate: false
+  xy: 483, 714
+  size: 150, 64
+  orig: 150, 64
+  offset: 0, 0
+  index: 4
+spriteShipStandardCannon/
+  rotate: false
+  xy: 635, 780
+  size: 150, 64
+  orig: 150, 64
+  offset: 0, 0
+  index: 5
+spriteShipStandardCannon/
+  rotate: false
+  xy: 1, 376
+  size: 150, 64
+  orig: 150, 64
+  offset: 0, 0
+  index: 6
+spriteShipStandardMissileLauncher/
+  rotate: false
+  xy: 153, 442
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: 0
+spriteShipStorageInteractive/
+  rotate: false
+  xy: 305, 510
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: 0
+spriteShipUiCannonProjectile/
+  rotate: false
+  xy: 511, 627
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: 0
+spriteShipUiCannonProjectile/
+  rotate: false
+  xy: 533, 632
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: 1
+spriteShipUiCannonProjectile/
+  rotate: false
+  xy: 85, 304
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: 2
+spriteShipUiCannonProjectile/
+  rotate: false
+  xy: 113, 366
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: 3
+spriteShipUiDecorations/
+  rotate: false
+  xy: 369, 556
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: 0
+spriteShipUiDecorations/
+  rotate: false
+  xy: 663, 762
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: 1
+spriteShipUiExplosion/
+  rotate: false
+  xy: 635, 708
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+spriteShipUiExplosion/
+  rotate: false
+  xy: 28, 149
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+spriteShipUiExplosion/
+  rotate: false
+  xy: 369, 546
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+spriteShipUiExplosion/
+  rotate: false
+  xy: 663, 752
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+spriteShipUiExplosion/
+  rotate: false
+  xy: 815, 819
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 4
+spriteShipUiExplosion/
+  rotate: false
+  xy: 181, 415
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 5
+spriteShipUiExplosion/
+  rotate: false
+  xy: 256, 481
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 6
+spriteShipUiExplosion01/
+  rotate: false
+  xy: 1, 7
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+spriteShipUiExplosion01/
+  rotate: false
+  xy: 52, 212
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+spriteShipUiExplosion01/
+  rotate: false
+  xy: 403, 564
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+spriteShipUiExplosion01/
+  rotate: false
+  xy: 697, 770
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+spriteShipUiExplosion01/
+  rotate: false
+  xy: 836, 836
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 4
+spriteShipUiExplosion01/
+  rotate: false
+  xy: 202, 432
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 5
+spriteShipUiExplosion01/
+  rotate: false
+  xy: 277, 498
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 6
+spriteShipUiMissileProjectile/
+  rotate: false
+  xy: 511, 632
+  size: 20, 3
+  orig: 20, 3
+  offset: 0, 0
+  index: 0
+spriteShipUiMissileProjectile/
+  rotate: false
+  xy: 85, 309
+  size: 20, 3
+  orig: 20, 3
+  offset: 0, 0
+  index: 1
+spriteShipUiMissileProjectile/
+  rotate: false
+  xy: 113, 371
+  size: 20, 3
+  orig: 20, 3
+  offset: 0, 0
+  index: 2
+spriteShipUiMissileProjectile/
+  rotate: false
+  xy: 597, 647
+  size: 20, 3
+  orig: 20, 3
+  offset: 0, 0
+  index: 3
+spriteShipWeaponIcons/
+  rotate: false
+  xy: 815, 829
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: 0
+spriteShipWeaponIcons/
+  rotate: false
+  xy: 181, 425
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: 1
+spriteShipWeaponIcons/
+  rotate: false
+  xy: 256, 491
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: 2
+spriteShipWeaponIcons/
+  rotate: false
+  xy: 256, 491
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: 3

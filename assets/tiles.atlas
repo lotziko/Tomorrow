@@ -1,0 +1,664 @@
+
+tiles.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tilesetGrass/10401
+  rotate: false
+  xy: 381, 447
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetGrass/10402
+  rotate: false
+  xy: 11, 125
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetGrass/10403
+  rotate: false
+  xy: 45, 159
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetGrass/10404
+  rotate: false
+  xy: 79, 193
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetGrass/10405
+  rotate: false
+  xy: 189, 256
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetGrass/10406
+  rotate: false
+  xy: 223, 290
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetGrass/10407
+  rotate: false
+  xy: 257, 324
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetGrass/10408
+  rotate: false
+  xy: 313, 345
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetGrass/10409
+  rotate: false
+  xy: 399, 447
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetGrass/10410
+  rotate: false
+  xy: 97, 193
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetGrass/10411
+  rotate: false
+  xy: 275, 324
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tilesetProceduralGeneration/14801
+  rotate: false
+  xy: 145, 193
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetProceduralGeneration/14802
+  rotate: false
+  xy: 1, 67
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetProceduralGeneration/14803
+  rotate: false
+  xy: 357, 373
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12001
+  rotate: false
+  xy: 357, 413
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12002
+  rotate: false
+  xy: 381, 437
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12003
+  rotate: false
+  xy: 11, 115
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12004
+  rotate: false
+  xy: 45, 149
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12005
+  rotate: false
+  xy: 79, 183
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12006
+  rotate: false
+  xy: 189, 246
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12007
+  rotate: false
+  xy: 223, 280
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12008
+  rotate: false
+  xy: 257, 314
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12009
+  rotate: false
+  xy: 417, 447
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12010
+  rotate: false
+  xy: 115, 193
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12011
+  rotate: false
+  xy: 293, 324
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12012
+  rotate: false
+  xy: 303, 327
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12013
+  rotate: false
+  xy: 313, 335
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12014
+  rotate: false
+  xy: 1, 97
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12015
+  rotate: false
+  xy: 179, 228
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12016
+  rotate: false
+  xy: 337, 367
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12017
+  rotate: false
+  xy: 347, 385
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipCeil/12018
+  rotate: false
+  xy: 357, 403
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12801
+  rotate: false
+  xy: 391, 437
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12810
+  rotate: false
+  xy: 391, 437
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12802
+  rotate: false
+  xy: 11, 105
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12803
+  rotate: false
+  xy: 89, 183
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12804
+  rotate: false
+  xy: 189, 236
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12805
+  rotate: false
+  xy: 267, 314
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12806
+  rotate: false
+  xy: 427, 447
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12807
+  rotate: false
+  xy: 125, 193
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12808
+  rotate: false
+  xy: 1, 87
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12809
+  rotate: false
+  xy: 179, 218
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12811
+  rotate: false
+  xy: 337, 357
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12812
+  rotate: false
+  xy: 347, 375
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12813
+  rotate: false
+  xy: 357, 393
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12814
+  rotate: false
+  xy: 401, 437
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12815
+  rotate: false
+  xy: 11, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipFloor/12816
+  rotate: false
+  xy: 99, 183
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipParts/13601
+  rotate: false
+  xy: 1, 334
+  size: 300, 121
+  orig: 300, 121
+  offset: 0, 0
+  index: -1
+tilesetShipParts/13602
+  rotate: false
+  xy: 1, 203
+  size: 176, 129
+  orig: 176, 129
+  offset: 0, 0
+  index: -1
+tilesetShipWall/12401
+  rotate: false
+  xy: 303, 423
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tilesetShipWall/12402
+  rotate: false
+  xy: 1, 169
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tilesetShipWall/12403
+  rotate: false
+  xy: 179, 300
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tilesetShipWall/12404
+  rotate: false
+  xy: 303, 389
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tilesetShipWall/12405
+  rotate: false
+  xy: 337, 423
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tilesetShipWall/12406
+  rotate: false
+  xy: 1, 135
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tilesetShipWall/12407
+  rotate: false
+  xy: 35, 169
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tilesetShipWall/12408
+  rotate: false
+  xy: 179, 266
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tilesetShipWall/12409
+  rotate: false
+  xy: 213, 300
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tilesetShipWall/12410
+  rotate: false
+  xy: 303, 355
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tilesetShipWall001/13201
+  rotate: false
+  xy: 189, 226
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipWall001/13202
+  rotate: false
+  xy: 277, 314
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipWall001/13203
+  rotate: false
+  xy: 437, 447
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipWall001/13204
+  rotate: false
+  xy: 135, 193
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipWall001/13205
+  rotate: false
+  xy: 1, 77
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipWall001/13206
+  rotate: false
+  xy: 179, 208
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipWall001/13207
+  rotate: false
+  xy: 347, 365
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetShipWall001/13208
+  rotate: false
+  xy: 357, 383
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSlopes/11601
+  rotate: false
+  xy: 371, 429
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSlopes/11602
+  rotate: false
+  xy: 1, 107
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSlopes/11603
+  rotate: false
+  xy: 35, 141
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSlopes/11604
+  rotate: false
+  xy: 69, 175
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSlopes/11605
+  rotate: false
+  xy: 179, 238
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSlopes/11606
+  rotate: false
+  xy: 213, 272
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSlopes/11607
+  rotate: false
+  xy: 247, 306
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSlopes/11608
+  rotate: false
+  xy: 337, 377
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSlopes/11609
+  rotate: false
+  xy: 347, 395
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSystemObjects/14001
+  rotate: false
+  xy: 411, 437
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSystemObjects/14002
+  rotate: false
+  xy: 11, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSystemObjects/14003
+  rotate: false
+  xy: 109, 183
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSystemObjects/14004
+  rotate: false
+  xy: 189, 216
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSystemObjects/14005
+  rotate: false
+  xy: 287, 314
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetSystemObjects/14006
+  rotate: false
+  xy: 447, 447
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10001
+  rotate: false
+  xy: 337, 405
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10002
+  rotate: false
+  xy: 371, 439
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10003
+  rotate: false
+  xy: 1, 117
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10004
+  rotate: false
+  xy: 35, 151
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10005
+  rotate: false
+  xy: 69, 185
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10006
+  rotate: false
+  xy: 179, 248
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10007
+  rotate: false
+  xy: 213, 282
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10008
+  rotate: false
+  xy: 247, 316
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10009
+  rotate: false
+  xy: 303, 337
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10010
+  rotate: false
+  xy: 337, 387
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tilesetTerrain/10011
+  rotate: false
+  xy: 347, 405
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
